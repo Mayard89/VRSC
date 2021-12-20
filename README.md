@@ -1,0 +1,2 @@
+# VRSC
+verus coin
